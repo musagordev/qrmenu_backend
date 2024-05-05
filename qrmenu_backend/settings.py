@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     'djoser',
     'rest_framework',
     'rest_framework.authtoken',
+    'corsheaders'
 ]
 
 MIDDLEWARE = [
@@ -51,6 +52,12 @@ MIDDLEWARE = [
     'django.contrib.auth.middleware.AuthenticationMiddleware',
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
+    'corsheaders.middleware.CorsMiddleware',
+    'django.middleware.common.CommonMiddleware',
+]
+
+CORS_ALLOWED_ORIGINS = [
+    'http://localhost:3000',
 ]
 
 ROOT_URLCONF = 'qrmenu_backend.urls'
@@ -131,3 +138,11 @@ REST_FRAMEWORK  = {
         'rest_framework.authentication.TokenAuthentication',
     )
 }
+
+STRIPE_API_SECRET_KEY = "sk_test_51P3HMyDzO7V1oBUxBG2vJBW6jKc8P3bIWPmJ5mkgRkkqcL4vA0BdwU4glva1bgfbdDsmRKOTaYiIEykMovKmKurW00PFoRJMVH"
+
+try:
+    import django_heroku
+    django_heroku.settings(locals())    
+except:
+    pass
