@@ -2,11 +2,13 @@ Introducing our QR Menu application, designed to assist restaurants in creating 
 
 I developed this project using React and Django, crafting a user interface and experience that is simple, functional, and intuitive. Our aim was to provide restaurants with a seamless solution for digitizing menus and enhancing customer service.
 
-Key Features:
+<b>Key Features:</b>
 
-Easy Menu Creation: Create customized menus for your restaurant with ease.
-QR Code Generation: Generate QR codes for tables, allowing customers to access menus conveniently.
-Order and Payment Handling: Accept orders and payments directly through the application, reducing wait times and enhancing efficiency.
+* Easy Menu Creation: Create customized menus for your restaurant with ease.
+
+* QR Code Generation: Generate QR codes for tables, allowing customers to access menus conveniently.
+
+* Order and Payment Handling: Accept orders and payments directly through the application, reducing wait times and enhancing efficiency.
 By leveraging React and Django, we have built a robust platform that caters to the specific needs of restaurants, offering a comprehensive solution for menu management and customer interaction.
 
 Experience the convenience and efficiency of our QR Menu application today!
