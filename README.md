@@ -12,7 +12,9 @@ By leveraging React and Django, we have built a robust platform that caters to t
 Experience the convenience and efficiency of our QR Menu application today!
 
 Example Web Page: https://qr-menu-37f8fba3460c.herokuapp.com/
+
 Example Menu Page: https://qr-menu-37f8fba3460c.herokuapp.com/menu/2/1
+
 Example of QR Code:
 
 
