@@ -1,4 +1,4 @@
-![image](https://github.com/musagordev/qrmenu_backend/assets/135444845/69d1d9ec-3225-4808-a8d2-8e15ae17bea3)Introducing our QR Menu application, designed to assist restaurants in creating QR code menus swiftly and efficiently. By quickly signing up on our website, you can create a customized menu for your restaurant and generate QR codes for your tables, ensuring a comfortable dining experience for your customers. Moreover, with this menu, you can accept orders and payments directly from your patrons, streamlining your order-taking process.
+Introducing our QR Menu application, designed to assist restaurants in creating QR code menus swiftly and efficiently. By quickly signing up on our website, you can create a customized menu for your restaurant and generate QR codes for your tables, ensuring a comfortable dining experience for your customers. Moreover, with this menu, you can accept orders and payments directly from your patrons, streamlining your order-taking process.
 
 I developed this project using React and Django, crafting a user interface and experience that is simple, functional, and intuitive. Our aim was to provide restaurants with a seamless solution for digitizing menus and enhancing customer service.
 
@@ -19,4 +19,4 @@ Example Menu Page: https://musagordev.pythonanywhere.com/menu/1/1
 
 Example of QR Code:
 
-
+![image](https://github.com/musagordev/qrmenu_backend/assets/135444845/69d1d9ec-3225-4808-a8d2-8e15ae17bea3)
