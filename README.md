@@ -20,8 +20,3 @@ Example Menu Page: https://musagordev.pythonanywhere.com/menu/1/1
 Example of QR Code:
 
 
-
-
-
-![image](https://github.com/musagordev/qrmenu_backend/assets/135444845/2b3549b4-4dea-42c9-b487-42084e0fd0f7)
-
